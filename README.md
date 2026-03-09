@@ -2,13 +2,13 @@
 
 **Senior Backend & Integration Engineer**
 
-Java • Python • Distributed Systems • Cloud Platforms
+Java • Python • APIs • Distributed Systems • Cloud Platforms
 
 ---
 
 ## About
 
-Backend engineer with extensive experience designing and building integration-heavy systems, APIs, and distributed services.
+Backend engineer focused on building integration-heavy systems, APIs, and distributed services.
 
 My work focuses on:
 

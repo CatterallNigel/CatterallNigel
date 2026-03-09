@@ -26,7 +26,7 @@ Most professional work is in private enterprise repositories.
 
 ### Eclectic Flights
 
-A travel discovery platform focused on unusual and off-the-beaten-path destinations.
+A travel discovery platform focused on unusual and off-the-beaten-path destinations, built with distributed backend services and automated data pipelines.
 
 https://fly.eclectic.flights
 

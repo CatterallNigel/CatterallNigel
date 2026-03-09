@@ -1,16 +1,85 @@
-## Hi there 👋
+# Nigel Catterall
 
-<!--
-**CatterallNigel/CatterallNigel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend & Integration Engineer**
 
-Here are some ideas to get you started:
+Java • Python • Distributed Systems • Cloud Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Backend engineer with extensive experience designing and building integration-heavy systems, APIs, and distributed services.
+
+My work focuses on:
+
+- Enterprise system integration
+- Distributed architectures
+- Messaging and event-driven systems
+- Cloud-based backend services
+- API design and platform development
+
+Most professional work is in private enterprise repositories.
+
+---
+
+## Current Project
+
+### Eclectic Flights
+
+A travel discovery platform focused on unusual and off-the-beaten-path destinations.
+
+https://fly.eclectic.flights
+
+The platform combines:
+
+- flight aggregation
+- destination discovery
+- automated data processing
+- backend services and APIs
+
+---
+
+## Technologies
+
+**Languages**
+
+- Java
+- Python
+- TypeScript
+
+**Backend**
+
+- Spring Boot
+- REST APIs
+- Distributed systems
+
+**Data**
+
+- SQL / relational databases
+- NoSQL systems
+
+**Cloud & Infrastructure**
+
+- Containerized services
+- Cloud platforms
+- CI/CD pipelines
+
+---
+
+## Selected Repositories
+
+- **TalkMessenger**  
+  Spring Boot + Apache Camel messaging and integration platform.
+
+- **VehicleRegistration-SpringBoot-mySQL**  
+  Spring Boot service demonstrating backend API and persistence patterns.
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/nigelcatterall/
+
+Website  
+https://fly.eclectic.flights

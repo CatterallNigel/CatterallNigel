@@ -74,6 +74,10 @@ The platform combines:
 - **VehicleRegistration-SpringBoot-mySQL**  
   Spring Boot service demonstrating backend API and persistence patterns.
 
+- **NearestAirportAPI**  
+  FastAPI microservice that resolves the nearest airport from geographic
+  coordinates or client IP using spatial search and geodesic distance calculations.
+
 ---
 
 ## Connect
